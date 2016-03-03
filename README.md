@@ -7,4 +7,4 @@ otp_test.py: To test how otp version works(starts instantly)
 otp.py: For real time booking, (automatically starts at 10:00 am after the details are given)           
 captcha_test.py: To test how captcha version works(starts instantly)        
 captcha.py: For real time booking, (automatically starts at 10:00 am after the details are given)         
-Other files are redundant
+Other files are redundant( f.py,sms.py,irctc_tatkal.py)
